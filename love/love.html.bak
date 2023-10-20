@@ -177,7 +177,7 @@
     }
 
     const inputField = document.getElementById('inputField');
-    const textToType = "Nguyễn Tâm";
+    const textToType = "Nguyễn Thị Tâm";
     const typingSpeed = 100; // milliseconds per character
 
     let charIndex = 0;
